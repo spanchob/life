@@ -1,0 +1,689 @@
+{
+	"title": "New Life",
+	"description": "A CYOA by u/spanchob",
+	"data": [
+		{
+			"type": "paragraph",
+			"title": "Introduction",
+			"description": [
+				"You were living your usual boring life, until one day you got killed in a roberry gone wrong. After dying, you were teleported to a place between heaven and earth, where the gods would pass judgement on you. Your judge would be the godless of lust, Aphrodite. After seeing your boring life she takes pity on you.",
+				"\"I'll grant you a new life of your choosing, as long as you make sure to fill it with sex and lust. Deal?\" she asks you. Seeing no other option, you decide to take her up on her offer, and you both seal the deal by making out passionately. Afterwards, she explains the metrics she will judge your life on.",
+				"First there is Kinkiness, which represents how kinky you and the sex you perform are. Then there is Passion, which represents how passionately you fuck your partners. Finally there is Love, which represents how much you love your partners during sex. Keep all three balanced-ish to succeed.",
+				"(Since this new life is magical, you can assume you have the ability of cum multiple times and aging can be ignored. Also incest, kinks and sodomy are not taboo, but common enough to be accepted by society. Women also have an increased lust for you, making seduction much easier for you.)"
+			]
+		},
+		{
+			"type": "choice",
+			"title": "Family",
+			"description": "You get to choose how you want your family to be set up. While your family members will be the same your relationship with them will change based on what you choose. This will not affect your scores.",
+			"choices": [
+				{
+					"name": "Step Family",
+					"image": "misc/stepfamily.jpg",
+					"modifier": "",
+					"perk": "",
+					"description": "Your mother divorced your dad shortly after your birth, and you dad married another woman who is now your stepmom. She also had a daughter who is now your stepsister and a sister who is now your stepaunt"
+				},
+				{
+					"name": "Adopted Family",
+					"image": "misc/adoptedfamily.jpg",
+					"modifier": "",
+					"perk": "",
+					"description": "Your parents put you up for adoption when you were born. You were adopted by a loving couple who later had a daughter, who is now your younger sister. Your adopted mom also has a sister who is your aunt"
+				},
+				{
+					"name": "Real Family",
+					"image": "misc/family.jpg",
+					"modifier": "",
+					"perk": "",
+					"description": "Your parents raised you after birth with no complications. They then went on to have a daughter, who is your younger sister. Your mother also has a single sister who is your real aunt."
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "choice",
+			"title": "Mother",
+			"description": "Your mother was what your friends called a MILF. Since you dad was often away, she would do all the tasks at home and take care of you. Perhaps in this timeline, you could reward her actions with some much needed stress-relief.",
+			"choices": [
+				{
+					"name": "Rachel McAdams",
+					"image": "RachelMcAdams/2.jpg",
+					"modifier": "+1 Kink",
+					"perk": "",
+					"description": "Rachel was the popular girl when she was in high school and as such she had had a lot of sex from a very young age. As she grew up, she lost her slutty side and became more tame, that is of course until you came into her life. One day, you caught her masterbating in her room, moaning your name. Seeing this you sneaked up and her and put your fingers into her pussy while kissing her. Startled, she reacted instinctively by putting her hand on your cock and jerking you off. Soon you were fucking her in pronebone, pulling close to you by her hair to grope her tits and kiss her. After that night, you would spend every night your father was outside the house giving Rachel the fucking of her life. In exchange, she lets you use her mouth whenever you want to masterbate."
+				},
+				{
+					"name": "Diane Kruger",
+					"image": "DianeKruger/2.jpg",
+					"modifier": "+1 Passion",
+					"perk": "",
+					"description": "Diane had spent a decent part of her adult life as a pornstar, before she quit to marry your dad. When you found out about her long illustrious porn career, you used it as a bargaining chip to get her to fuck you. You made her your fuckpet, who would passionately fuck you, by blackmailing her. Eventually, your dad found out about the porn, but he didn't seem to care. Luckily by this time, Diane had gotten addicted to your cock and continued her role as your fuckpet. At night, you would find her naked on your bed, fingering herself waiting for you to come in and take her body. You do so by fucking her all night long in missionary while making out with her. She also sends you nudes and provocative sexts regularly for you to use as jerk-off material when she is away."
+				},
+				{
+					"name": "Natalie Portman",
+					"image": "NataliePortman/12.jpg",
+					"modifier": "+1 Love",
+					"perk": "",
+					"description": "Natalie had lived a boring normal life, with no adventure and with very few sexual encounters. As such, now that she was married and had a stable life, she wanted to experiment and explore her sexuality. When she caught you masterbating to some porn one day, instead of stopping you, she came in and gave you a handjob. This continued for a while and soon handjobs turned into titjobs turned into blowjobs and eventually she gave in sat on your dick. Immediately you could hear her loud moan, clearly not used to a cock as big as yours. She rode you cock to completion and let you cum inside her before putting her clothes back on and leaving without a word. Every now and then, she calls you to her room, takes off your pants and rides you to pleasure herself."
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "choice",
+			"title": "Sister",
+			"description": "Your younger sister was a popular girl at school, but you know that she always had a crush on you. You often found her accidentally peeking at you in the shower. Maybe this time you can give her the brotherly love she clearly longs for.",
+			"choices": [
+				{
+					"name": "Victoria Justice",
+					"image": "VictoriaJustice/12.jpg",
+					"modifier": "+1 Kink",
+					"perk": "",
+					"description": "Victoria was the hipster at school and most of her friends were boys. She wasn't particularly popular but she was one of boys, doing all the things that they would do. One day, she came into the boys locker room while you were alone inside. She explained that she wanted to know what the locker room experience was like but she did not expect you to be there naked. You could clearly see the lust in her eyes, so you told her that if she wants to be in the locker room, she should take off her clothes as well. When she did so, she could no longer control herself, and immediately started making out with you. You locked the room and fucked her in standing doggy inside the locker room. Ever since then, you both agreed to meet in the boys locker room during lunch to have public sex."
+				},
+				{
+					"name": "Brie Larson",
+					"image": "BrieLarson/5.jpg",
+					"modifier": "+1 Passion",
+					"perk": "",
+					"description": "Brie was the popular girl at school, having many boyfriends and sexual partners. As such you would often hear her moaning from her room. One day, you confronted her about this, asking her to be a little more quiet. To your surprise she told you that she moans loudly so that you could hear her, inticing you into making her moan yourself. Upon hearing this, you immediately lifted her up and started making out before taking her into her room. You ripped off her clothes and fucked her from behind. Her moans that day were louder than ever, now that her fantasy of getting fucked by you was complete. After that day, whenever you would hear her moans, you would prepare yourself to enter her room after her partner left, to make remind her who the better cock is."
+				},
+				{
+					"name": "Deborah Ann Woll",
+					"image": "DeborahAnnWoll/9.jpg",
+					"modifier": "+1 Love",
+					"perk": "",
+					"description": "Deborah was a shy, quiet kid at school, spending most of her time drawing and painting. She would never show you her drawings, saying that she was embarassed about how bad they were. One day, you were in her room and caught a glimpse of her notebook. In it were pages upon pages of pictures of you fucking the absolute living shit out of Deborah in a plethora of positions. When she caught you browsing through the drawings, you simply offered to provide her with some real life inspiration for her drawings. Taking you up on your offer, she takes off her clothes shyly and presents her virgin pussy to you. You took her virginity in slow sensual missionary. This continued every day and eventually you got her to try all the positions in her drawings."
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "choice",
+			"title": "Aunt",
+			"description": "Your aunt was a grade A slut. Almost as old as your mom, and still single, she has slept with at least a few hundred men. Seducing her shouldn't be difficult, the only question is how are you going to satisfy her crazy libido.",
+			"choices": [
+				{
+					"name": "Felicity Jones",
+					"image": "FelicityJones/12.jpg",
+					"modifier": "+1 Kink",
+					"perk": "",
+					"description": "Felicity is the definition of a nymphomaniac. At university, she founded an underground sex club, where she would whore herself to all paying men. When she came to live with your family, you were the first to take advantage of her cock addiction. You entered her room at night and started groping her tits and fingering her pussy in bed. When she saw it was you who was manhandling her, she took off her skimpy pajamas and started making out with you. The morning after, she told you to meet her at a specific address at 9pm. When you reached there, you found her underground sex club, with just you, Felicity and hot models. Thus began regular weekend orgies, ending with you returning home with a naked, cum filled Felicity who can't stop making out with you."
+				},
+				{
+					"name": "Gal Gadot",
+					"image": "GalGadot/11.jpg",
+					"modifier": "+1 Passion",
+					"perk": "",
+					"description": "Gal was a military woman, having served in the marines. Being the only woman in an all-man regiment, she was used to getting fucked by her peers and superiors. Her time getting gangbanged, DP'd and golden showered in the military has made her a recovering cock-addict. You decided to take advantage of this fact by \"accidentally\" sending her a picture of your dick. She soon came barging in your room, only to see your massive cock. She immediately got on her knees and gave you a blowjob. \"Use me how you want nephew! I want to be your cumslut!\" she said after swallowing your load. You picked her up, took off her clothes and fucked her standing right then and there. Now she serves as your free-use cumslut, willing to take your cock, anytime, anywhere."
+				},
+				{
+					"name": "Elizabeth Olsen",
+					"image": "ElizabethOlsen/7.jpg",
+					"modifier": "+1 Love",
+					"perk": "",
+					"description": "Elizabeth was a divorcee, whose husband was a serial womaniser. When she was married, her husband had trained her into becoming submissive to a fault, and this is now the only way she feels loved. When she came to live with your family, she was sad and didn't feel loved. You changed this by slowly gaining her trust by touching her body at increasingly sensual points, until eventually she accepted you as her master, and became your submissive. Your techniques work and Elizabeth starts feeling loved and happy. When you two are alone, you make her take off her clothes, give you a blowjob until you cum down her throat and fuck her like she is a dog. You often cum inside her and lay with her on your bed, fondling her tits and ass while making out with her."
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "choice",
+			"title": "College",
+			"description": "You get to choose what kind of college you will go to. While the people you meet will be the same, this choice allows certain extra unlockables.",
+			"choices": [
+				{
+					"name": "Liberal Arts",
+					"image": "misc/liberalarts.jpg",
+					"modifier": "",
+					"perk": "",
+					"description": ""
+				},
+				{
+					"name": "University",
+					"image": "misc/university.jpg",
+					"modifier": "",
+					"perk": "",
+					"description": ""
+				},
+				{
+					"name": "Technical School",
+					"image": "misc/technicalschool.jpg",
+					"modifier": "",
+					"perk": "",
+					"description": ""
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "choice",
+			"title": "Roommate",
+			"description": "Your roommate in college was a cheerleader from your school. You always had a crush on her but now that you are in college you can finally fulfil your fantasies of fucking the living daylight out of her.",
+			"choices": [
+				{
+					"name": "Madelaine Petsch",
+					"image": "MadelainePetsch/4.jpg",
+					"modifier": "+1 Kink",
+					"perk": "",
+					"description": "Madelaine was the school slut, she would fuck anyone and everyone who was willing. Unfortunately, back in high school you never had the courage to tell her how much you wanted to fuck her. Luckily now you have the chance to use her body to satisfy your needs. When you first arrived, you found her masterbating in the living room clearly in need to sexual attention. When she saw you, she stopped for a second, before giving you a seductive look and continuing. You sat next to her and started making out with her while she took off your pants and started jerking you off. You in turn started fingering her as you both came together all over the sofa. Every now and then she comes to your room naked and lets you fuck her ass in doggy for stress relief."
+				},
+				{
+					"name": "Camila Mendes",
+					"image": "CamilaMendes/2.jpg",
+					"modifier": "+1 Passion",
+					"perk": "",
+					"description": "Camila was the student council president, organising all school events and celebrations. Often to expedite her work, she would offer sexual favours to people, in exchange for getting her work done faster. As such she was used to getting fucked and her pussy had seen at least a couple dozen different dicks. As a roommate, she often doesn't have enough time to do her chores. In exchange for you not reporting her to the RA, she offers you her body, which you gladly accept. You spoon her while fucking her as she moans your name. As part of your deal, you can use her once a month however you want. Eventually, once a month becomes once a week becomes once a day, until eventually, you are filling her with cum before class, after class, before sleep and after waking up."
+				},
+				{
+					"name": "Lili Reinhart",
+					"image": "LiliReinhart/3.jpg",
+					"modifier": "+1 Love",
+					"perk": "",
+					"description": "Lili was the shy nerd who joined the cheer squad because of her mother. She was always the nice girl next door, but unfortunately you were never able to pursue anything with her since her mom wanted her to date the jocks in school. As roommates, she told you that she had a huge crush on you all throughout high school and that now you could be together. She wanted you to take her virginity and make her your woman forever. Not being one to deny the oppurtunity to fuck a hot chick like her, you decided to accept her offer and popped her cherry that night in sweet missionary as she looked into your eyes with love only a true virgin maiden can exhibit. You of course kept fucking her afterwards to make her feel valued by the man she loves"
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "choice",
+			"title": "Professor",
+			"description": "Your favourite professor in college was a young woman who recently got her doctorate. Having spent all her life dedicated to academics, perhaps now she can focus on the more baser parts of live, with you to guide her.",
+			"choices": [
+				{
+					"name": "Daisy Ridley",
+					"image": "DaisyRidley/7.jpg",
+					"modifier": "+1 Kink",
+					"perk": "",
+					"description": "Daisy was your professor in Gender Studies. She would lecture for hours about sexuality and how it affects people. One day, you found her in the sex store buying a buttplug. When she noticed you, she felt a little embarrased, but you comforted her and pretended to not know how anal toys work. She offered to show you a demonstation, for academic purposes of course, which you gladly accepted. After seeing her pleasure herself with her buttplug, you couldn't control yourself and inserted your dick into her ass making her moan loudly. Once you came inside her ass, she gave you a key to her appartment and asked you to come in anytime to refresh your knowledge. She then gave you a wink and went into the shower to clean herself up."
+				},
+				{
+					"name": "Rose Byrne",
+					"image": "RoseByrne/7.jpg",
+					"modifier": "+1 Passion",
+					"perk": "",
+					"description": "Rose was your history professor. She was a married woman and as such you hesitated to seduce her. One day, while in her office for a personal revision session, you overheard her conversation with her husband about how his sperm was unable to get Rose pregenant. Using your sources, you got your name recommeded to the couple as a potential sperm donor, however your condition was that you would require Rose to get impregenated by fucking you. The couple agreed to your conditions and you were able to fuck Rose at her home and creampie her. Once she got fucked by your cock however, she became an addict and would often cheat on her husband with you in her office where you would take off her clothes and fuck her on her table in doggy and missionary."
+				},
+				{
+					"name": "Jenna Coleman",
+					"image": "JennaColeman/7.jpg",
+					"modifier": "+1 Love",
+					"perk": "",
+					"description": "Jenna was your biology professor. She was impressed by your knowledge and skill and therefore asked you to join her for a summer research project to observe mating patterns in south american lobsters. On the research trip, you slowly seduced her until eventually one day she invited you to her room for some late night coffee. When you arrived to her room, she slowly made moves on you until finally taking your hands and putting them on her soft tits, asking you to manhandle her. You lovingly groped her and made her feel things she had never felt. She followed suit by giving you an amazing blowjob, and then you both fucked in loving missionary. She often invites you to her house to relive that night with her favourite student."
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "choice",
+			"title": "Dean",
+			"description": "The dean of your college was a sexually frustrated married woman, who needed some young cock in her life. Luckily you were able to come into contact with her through the professor and provide her with all the sexual pleasure she desires.",
+			"choices": [
+				{
+					"name": "Emma Watson",
+					"image": "EmmaWatson/7.jpg",
+					"modifier": "+1 Kink",
+					"perk": "",
+					"description": "Emma wanted to experiment using aromatics and aphrodisiacs with her husband to bring some variety into their sex life, however he seemed a bit sceptical of the idea. So she approached you to make the best aphrodisiacs to convince her husband. You got to work mixing and matching different chemicals until you made the ultimate aromatic love potion. To demonstrate the same to Emma, you had her smell it and instantly she got super horny. Taking advantage of the moment, you kept having Emma smell it, until eventually she couldn't control herself and started making out with you. Kissing, led to blowjobs, led to sex, which you recorded to send to her husband to show him how you cucked him and fucked his wife by making her too horny to think."
+				},
+				{
+					"name": "Emilia Clarke",
+					"image": "EmiliaClarke/3.jpg",
+					"modifier": "+1 Passion",
+					"perk": "",
+					"description": "Emilia was a very prim, proper and polished woman with one big flaw, she was an alcoholic. Once she started drinking, she couldn't control herself and it would eventually lead to her getting drunk enough to make decisions she regrets. To take advantage of this, you got her drunk at a college event, and then took her to the bathrooms. Drunk and extremely horny, she asked you to fuck her in the bathroom stall by bending over and showing you her pristine ass and pussy. You obviously took her up on the offer and fucked her hard, making her moan so loud that the entire party could hear. When you were about to cum, she told you to cum inside her as a sign of you having conquered her body. Her husband was pissed to see your cum in his drunk wife"
+				},
+				{
+					"name": "Jaimie Alexander",
+					"image": "JaimieAlexander/3.jpg",
+					"modifier": "+1 Love",
+					"perk": "",
+					"description": "Jaimie always seemed to be the person who had everything anyone could ever want. However, what she lacked was a husband willing to meet her sexual needs. Her husband, while loving, suffered from erectile dysfunction and as such couldn't fuck Jaimie like she needed to be. After hearing your sexcapades in the college, Jaimie invited you to her house for dinner, where she and her husband discussed with you the possibility of you helping fulfil Jaimie's needs. Her husband was more than happy to comply, since he knew Jaimie would always love him regardless of who was fucking her. Needless to say you agreed and fucked Jaimie in pronebone, making her cum again and again. The next day, she invited you to her office to fulfil her needs again"
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "photopara",
+			"title": "Extra: Professor's Combo",
+			"celeb": {
+				"name": "Zoey Deutch",
+				"image": "ZoeyDeutch/1.jpg"
+			},
+			"description": [
+				"As part of your college life and upon the insistance of the professor and the dean, you join the college swim club. What they didn't mention was that the only other member in the swim club was the college hottie Zoey, who had a huge crush on you.",
+				"In your first swim session, you noticed that there was no seperate men's and women's locker room, instead there was one common gender neutral locker room. While a bit weird, when you entered you found a naked Zoey casually sitting and cleaning her hair. When she noticed you, she made some small talk, not finding being naked in front of you weird.",
+				"\"You don't think this is weird do you? That I am here, naked, looking at your massive cock\" She asked while moving towards you sexily. She slowly approached you and started jerking you off while still talking dirty about how she really likes the new locker rooms and how they bring the swim club together.",
+				"It doesn't take too long for you to cum all over her hand as she is making out with you. \"Oh well, maybe we can continue this next time?\" she says, before she puts on her swimsuit and leaves. After your swim session you come back to the locker room, and now you rip off her swimsuit and fuck her mercilessly to the point where her screams could be heard by the entire college."
+			],
+			"condition": {
+				"conditional": "intersect",
+				"a": [
+					"College.name",
+					"Professor.name",
+					"Dean.name"
+				],
+				"b": [
+					"Liberal Arts",
+					"Daisy Ridley",
+					"Emma Watson"
+				]
+			}
+		},
+		{
+			"type": "photopara",
+			"title": "Extra: Professor's Combo",
+			"celeb": {
+				"name": "Zoey Deutch",
+				"image": "ZoeyDeutch/1.jpg"
+			},
+			"description": [
+				"As part of your college life and upon the insistance of the professor and the dean, you join the college swim club. What they didn't mention was that the only other member in the swim club was the college hottie Zoey, who had a huge crush on you.",
+				"In your first swim session, you noticed that there was no seperate men's and women's locker room, instead there was one common gender neutral locker room. While a bit weird, when you entered you found a naked Zoey casually sitting and cleaning her hair. When she noticed you, she made some small talk, not finding being naked in front of you weird.",
+				"\"You don't think this is weird do you? That I am here, naked, looking at your massive cock\" She asked while moving towards you sexily. She slowly approached you and started jerking you off while still talking dirty about how she really likes the new locker rooms and how they bring the swim club together.",
+				"It doesn't take too long for you to cum all over her hand as she is making out with you. \"Oh well, maybe we can continue this next time?\" she says, before she puts on her swimsuit and leaves. After your swim session you come back to the locker room, and now you rip off her swimsuit and fuck her mercilessly to the point where her screams could be heard by the entire college."
+			],
+			"condition": {
+				"conditional": "intersect",
+				"a": [
+					"College.name",
+					"Professor.name",
+					"Dean.name"
+				],
+				"b": [
+					"University",
+					"Rose Byrne",
+					"Emilia Clarke"
+				]
+			}
+		},
+		{
+			"type": "photopara",
+			"title": "Extra: Professor's Combo",
+			"celeb": {
+				"name": "Zoey Deutch",
+				"image": "ZoeyDeutch/1.jpg"
+			},
+			"description": [
+				"As part of your college life and upon the insistance of the professor and the dean, you join the college swim club. What they didn't mention was that the only other member in the swim club was the college hottie Zoey, who had a huge crush on you.",
+				"In your first swim session, you noticed that there was no seperate men's and women's locker room, instead there was one common gender neutral locker room. While a bit weird, when you entered you found a naked Zoey casually sitting and cleaning her hair. When she noticed you, she made some small talk, not finding being naked in front of you weird.",
+				"\"You don't think this is weird do you? That I am here, naked, looking at your massive cock\" She asked while moving towards you sexily. She slowly approached you and started jerking you off while still talking dirty about how she really likes the new locker rooms and how they bring the swim club together.",
+				"It doesn't take too long for you to cum all over her hand as she is making out with you. \"Oh well, maybe we can continue this next time?\" she says, before she puts on her swimsuit and leaves. After your swim session you come back to the locker room, and now you rip off her swimsuit and fuck her mercilessly to the point where her screams could be heard by the entire college."
+			],
+			"condition": {
+				"conditional": "intersect",
+				"a": [
+					"College.name",
+					"Professor.name",
+					"Dean.name"
+				],
+				"b": [
+					"Technical School",
+					"Jenna Coleman",
+					"Jaimie Alexander"
+				]
+			}
+		},
+		{
+			"type": "paragraph",
+			"title": "Work",
+			"description": [
+				"During college you found one of the world's most successful start-ups. Your business is worth over a Billion dollars by the time you graduate. You, as the CEO, own over 30% of the business and are incredibly rich.",
+				"Still you need to work in your office to make sure the business thrives even more. Luckily, you were smart enough to hire hot sluts as your employees, to be able to enjoy yourself while being hard at work. Thus begins the next chapter of your new life."
+			]
+		},
+		{
+			"type": "choice",
+			"title": "Assistant",
+			"description": "Your assistant at work is contractually obligated to be a free-use slut for you. You can call her in to your office anytime to give her a fucking or you can fuck her in semi-private areas like bathrooms and store rooms, the choice is up to you.",
+			"choices": [
+				{
+					"name": "Jordyn Jones",
+					"image": "JordynJones/3.jpg",
+					"modifier": "+1 Kink",
+					"perk": "",
+					"description": "Jordyn started her career as an onlyfans model. When her family found out, they made her stop to save the family's public image. Unemployed and broke, she applied for every job she could. When she applied for you job, you immediately recognised her from her onlyfans clips. In the interview you brought up her adult entertainment career, and asked for a demonstration. She gave you a striptease, before taking off you pants and giving you a blowjob. You then picked her up and asked her how desperate she is for this job. She answered by simply pointing to her asshole, inviting you to enter. You fucked her in anal doggy and took her anal virginity. Now she serves as your loyal fuckpet, who lets you cum inside her ass and pussy whenever you want."
+				},
+				{
+					"name": "Margaret Qualley",
+					"image": "MargaretQualley/1.jpg",
+					"modifier": "+1 Passion",
+					"perk": "",
+					"description": "Margaret joined your company straught out of college. In her interview, she offered to blow you for the job, and you obviously obliged. She quickly got down on her knees and gave you the best blowjob of your life. After cumming down her throat, she simply put on her clothes and told you to call her once you decide her salary. You later found out that the only way she passed college was by giving blowjobs, handjobs and lapdances to anyone who she could get something from, be it professors or frat guys. As you assistant Margaret offers herself to not only you, but all your employees and even your clients, taking multiple cocks at once even. Needless to say her services, apart from just pleasuring you, have been instrumental to securing many deals."
+				},
+				{
+					"name": "Katherine Langford",
+					"image": "KatherineLangford/4.jpg",
+					"modifier": "+1 Love",
+					"perk": "",
+					"description": "Katherine was raised in a cult and was only recently freed from it. When you interviewed her, you asked her about her cult background and she explained in vivid detail how the cult elder would ask her and the other girls in the cult to \"help\" him with his penile issues by using their mouth. Not one to break her ignorance bubble, you explained that you too had similar issues to the cult elder and needed Katherine's help. Hearing this she instantly took off your pants to reveal your massive cock. Seeing this she instantly started lovingly blowing you. After that, brainwashing her into serving her new \"elder\" was easy, and now she offers her body to help you with your boners whenever necessary. All you need to do is call her and she will present her body to you by bending over your desk"
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "choice",
+			"title": "Investor",
+			"description": "A wealthy investor who gave you the money to start your business. Seeing the massive wealth you have made her, she often rewards you with what you like best, rough, raw, no limits sex with her in the office.",
+			"choices": [
+				{
+					"name": "Dove Cameron",
+					"image": "DoveCameron/4.jpg",
+					"modifier": "+1 Kink",
+					"perk": "",
+					"description": "Dove was a famous actor who was looking to diversify her wealth by investing into many different ventures. When she decided to invest in your company, you celebrated with her by going to the club. Once she got drunk enough, she offered to take you to her house. One thing led to another and eventually you both had mindblowing sex on her bedroom, which was recorded by a rogue videocamera she forgot to turn off. Luckily you were able to find the recording before Dove could, and you used it to blackmail Dove into sending you nudes for your personal enjoyment. When she eventually found out that it was you who was blackmailing her, she wasnt even mad, instead she just took off her clothes and sent you a nude asking you to come to her house and give her the cock that she desperately needs. Now she continues to provide you with sexy pictures of herself, in exchange for mindboggling sex."
+				},
+				{
+					"name": "Kate Upton",
+					"image": "KateUpton/3.jpg",
+					"modifier": "+1 Passion",
+					"perk": "",
+					"description": "Kate was a rich noblewoman who was born in England but raised in the United States. As a rich woman, she was used to getting whatever she wanted. So when she approached to buy your company for a lowball figure and you said no, she felt something she had never felt before. After that she couldn't get you off her mind and wanted nothing more than to have you say no to her. She started visiting your offices often, giving you weird offers only to have you say no, which made her cum. When you noticed this, you decided to \"punish\" her which she enjoyed a bit too much. You were soon able to come to an agreement, with her providing your company with funding and you providing her with punishment and a dominant figure she lacked in her life. You go to her mansion and punish her by gagging and tying her up before going down on her pussy and ass while playing with her massive tits."
+				},
+				{
+					"name": "Anna Kendrick",
+					"image": "AnnaKendrick/4.jpg",
+					"modifier": "+1 Love",
+					"perk": "",
+					"description": "Anna was the widow of a rich businessman. When her husband died, she inherited his vast investment portfolio and started managing it herself. When she saw how impressive your company was, she was impressed and instantly wanted to invest into your company. You of course happily accepted her offer, investing the new funding. As your relationship as investor-investee developed, you found out that Anna was lonely and you were probably her only friend. One day while you were having dinner at a restraunt, she put her panties into your hand. Surprised, you ask her what this is about, she replied simply by giving you her hotel key and a note that said \"Come and take your reward, my prince\". When you went to the room, you found a naked Anna, playing with herself. You went in and collected your reward and bred Anna. She took an abortion pill and the same scenario happened almost weekly"
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "choice",
+			"title": "Intern",
+			"description": "The new intern at the office who wants to make a mark on the CEO. Of course the only way she knows how to do this is by giving sexual favours to you in the hope that maybe it will eventually lead to a real job, even if its as your company slut.",
+			"choices": [
+				{
+					"name": "Alice Eve",
+					"image": "AliceEve/4.jpg",
+					"modifier": "+1 Kink",
+					"perk": "",
+					"description": "Alice was a former hooker, who wanted to make a late career shift. Her experience in seduction and manipulation is what got her the job, however when she tried to seduce you, she failed. Understanding that she can't seduce you, she gets straight to the point and offers you her experienced body, in exchange for a job eventually. Hearing her blunt proposal, you agreed and ripped off her clothes right then and there. You then proceeded to fuck her in her cubicle making her cum again and again. After finishing inside her, you kept making out with her and kissing her body, your soft dick still in her tight pussy. After a while, you become hard again and fuck her again. This continues for a while until she is so exhausted that she can no longer cum. You then throw her a dirty set of underwear and ask her to see herself out. The next day, you do the exact same thing, until she eventually gets promoted to your full time stress relief slut."
+				},
+				{
+					"name": "Nicola Cavanis",
+					"image": "NicolaCavanis/1.jpg",
+					"modifier": "+1 Passion",
+					"perk": "",
+					"description": "Nicola dropped out of college in her sophomore year and was now looking for a job. As an intern, she would do anything needed to get a permanent job and start her career, since she had no other option to go back to. One day, she came to your house to impress you and secure her job, however you were in the shower. When you came out completely naked, you were the one who had impressed Nicola with your massive cock. She immediately got on all fours and explained what she was doing here while stroking your cock. Once she finished explaining, you pulled her hair and fucked her face, asking her just how desperate she was for the job. She gave in and let you facefuck her, while she took off the rest of her clothes. You then pulled her up by her hair and turned her around to fuck her in doggy while spanking her and pulling her hair. Once you finished inside her, you told her she was hired as your home and office stress relief slut"
+				},
+				{
+					"name": "Iris Apatow",
+					"image": "IrisApatow/3.jpg",
+					"modifier": "+1 Love",
+					"perk": "",
+					"description": "Iris was a recent college graduate who was extremely ambitious. As an intern she did everything to ensure that she was the most productive employee you had ever seen. Seeing her ambition, you wanted to see just how far she is willing to go to get a job. You invited her to your house and told her to dress in skimpy clothes. When she arrived, wearing a bra and skirt, you were impressed. You then told her that in order to prove herself, she would need to have a one night stand with you. She explained that she was still a virgin, but if this is what it takes to get a job she would be willing. You took her vaginal, oral and anal virginity that night, making her addicted to your cock. After the night, she cooked you breakfast and even drove you to the office. Once it was time to leave, she asked if she could come back with you and you could do all the things you did last night, every night. You agreed and hired her as your stress relief slut."
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "paragraph",
+			"title": "Retirement",
+			"description": [
+				"With your company being worth many hundreds of billions of dollars, you are able to retire young at the ripe age of 30. For your retirement you buy a large 15 bedroom mansion. Now you spend your life going to charity events and hanging out with rich celebrities.",
+				"Needless to say, you still fuck many celebs, but to keep your image pure, you need to marry a trophy wife to both, make other men jealous and to use her to debunk \"rumors\" of you fucking every female celeb you meet."
+			]
+		},
+		{
+			"type": "choice",
+			"title": "Wife",
+			"description": "Your trophy wife comes from an extremely high class family. You married her not out of love, but to use her as arm candy to make other men jealous and to seduce other women by having her tell them about your sexcapades.",
+			"choices": [
+				{
+					"name": "Katherine McNamara",
+					"image": "KatherineMcNamara/11.jpg",
+					"modifier": "+1 Kink",
+					"perk": "",
+					"description": "Katherine was an influencer on Instagram. She met you at a party and you two instantly hit it off. When it was time to leave, Katherine invited you over to her place for some fun. You obliged and when you went in, you saw her BDSM sex dungeon. She explained that while she lived her life as an influencer, she also had a second life as a bondage streamer on the dark web. She records and streams herself getting railed by men while being tied up and tortured in all sorts of ways since that brings her satisfaction. Not one to let this oppurtunity go, you tie her up and dominate her completely. When you are done, her body is completely ravaged and destroyed. The next day, she messages you to come visit again and bluntly tells you that she wants you to be the only man who dominates her from now on. Soon you get married and she quits streaming your bondage sessions, however you still record them for use as jerk off material whenever she is away and you are feeling lonely"
+				},
+				{
+					"name": "Alejandra Guilmant",
+					"image": "AlejandraGuilmant/4.jpg",
+					"modifier": "+1 Passion",
+					"perk": "",
+					"description": "Alejandra was born in a cartel family in Mexico. As such she was used to getting insane amounts of money and power. She became a swimsuit model to explore the world while also fucking whoever she wanted, whenever she wanted. When you met her at a fashion show, you instantly caught her eye. She called you to her mansion in Guadlajara to have a good time. When you reached you found the whole mansion filled with hot models as she invited you to start the orgy. What proceeded was you fucking all the models multiple times, creating moans loud enough to be heard by the entire city. After the first time, she would often contact you to call you to orgies or to simply fuck her. Soon you asked her to marry you, both as a way to shut up her critics who see her as nothing but a slut and to do sexual acts like making out of discrete handjobs publically, without raising much attention. She of course agreed and you celebrated the wedding by hosting another orgy in her mansion."
+				},
+				{
+					"name": "Kaya Scodelario",
+					"image": "KayaScodelario/1.jpg",
+					"modifier": "+1 Love",
+					"perk": "",
+					"description": "Kaya was married to a much older man, who had stopped loving her many moons ago. When you met her while negotiating a business deal with her husband, she immediately tried to seduce you. You ignored her advances but when her husband died and left her as the owner of his business, you decided to accept her seductions for business reasons. She invited you to her house and you fucked her there. Upon entering her tight pussy, you immediately fell in love. The next day, you asked her if you could stay at her place and keep fucking her now that she wasn't married. Excited at the prospect of a man loving her, she accepted, becoming your wife in all but name. When she found out about your sexual escapades with other women, she  understood that you may fuck these women but you only love her. Soon, you proposed to her, making your relationship formal. Now she helps you with the girls in your harem, fucking them and helping them with their needs."
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "choice",
+			"title": "Sister-In-Law",
+			"description": "Your wife's sister who is arguably hotter than your wife. You and your wife have her live with the two of you and treat her like another wife of yours, complete with threesomes and solo submissive breeding creampie sessions.",
+			"choices": [
+				{
+					"name": "Sydney Sweeney",
+					"image": "SydneySweeny/10.jpg",
+					"modifier": "+1 Kink",
+					"perk": "",
+					"description": "Sydney was the wild family slut, having slept with most of her cousins, uncles and even her own parents. When you married her sister, she told you all about her and Sydney's sexual night outs, how they would pleasure each other to completion on most nights when they shared a room together. Intrigued, you called Sydney and asked for a demonstration. In a bid to impress and seduce you, Sydney wholeheartedly agreed, and started licking your wife's pussy and playing with her tits. While she was doing this, you took out your dick and whispered in Sydney's year that now it was your turn, before sliding your cock inside Sydney. Instantly she was inticed, as your massive cock penetrated her tight young pussy. You then proceeded to make her cum multiple times, all while she was pleasuring your wife. After you finished inside her, you knew she was yours now and she admitted herself that you had tamed her."
+				},
+				{
+					"name": "Alexandra Daddario",
+					"image": "AlexandraDaddario/1.jpg",
+					"modifier": "+1 Passion",
+					"perk": "",
+					"description": "Alexandra was happily married to her husband, and was excited to see that her sister had also gotten married. One day, she came to your house to collect some of the things her sister had requested, when she stumbled onto some of your harem's sex toy collection. Intrigued, she asked you if her sister used these and asked if you could help show her how to use one. You obliged and slowly put a butt plug inside Alexandra's ass, before pleasuring her with a dildo. After a while, you replaced the dildo with your dick to see if she would notice. She didn't feel the difference and you kept on fucking her. When she looked behind and saw you fucking her, she simply sighed and said that at least you were better than her husband, took off her dress and let you keep going. When you came inside her, she removed all the cum from her pussy, swallowed it and told you that she would see you tomorrow for more sex toy tutorials, before winking and leaving."
+				},
+				{
+					"name": "Maude Apatow",
+					"image": "MaudeApatow/9.jpg",
+					"modifier": "+1 Love",
+					"perk": "",
+					"description": "Maude had just graduated high school and was about to go to the same college you had gone to. One day, she asked you about your time in college and whether you knew anything about the \"Champion of Aphrodite\", which had become your nickname in college. You told her that you yourself were the champion in question, to which she simply giggled. After a while you saw her whisper something in your wife's ear and head into the bedroom. Your wife then informed you that Maude wanted you to fuck her and take her virginity to prepare her, but was too nervous to ask. She told you that Maude was going to be waiting for you in the bedroom, and asked you to fuck her little sister well. You obliged and entered the bedroom to find a half naked Maude standing on all fours on your bed, flashing her pussy to you. You immediately mounted her and deflowered her as your wife peeped in from the door while fingering herself."
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "choice",
+			"title": "Mother-In-Law",
+			"description": "Your wife's mother was sexually frusterated since her husband would no longer fuck her. Thankfully, when you married your wife, she came to live with you and now you can provide this MILF with all the cock and cum she wants.",
+			"choices": [
+				{
+					"name": "Jennifer Lawrence",
+					"image": "JenniferLawrence/5.jpg",
+					"modifier": "+1 Kink",
+					"perk": "",
+					"description": "Jennifer was herself a trophy wife, married to her husband for financial reasons more than anything. Once she got pregenant with her daughters, her husband had an heir to his empire and so he lost all interest in Jennifer. She would often find him with other women, not even trying to hide his cheating from Jennifer anymore. Seeing this, Jennifer blamed herself for not being slutty enough, and hence tried everything to seduce her husband. When nothing worked, she decided to simply fulfil her desires using other man. When her husband found out, he didn't stop her from cheating, but told her to only fuck men of certain social standing, so Jennifer changed her targets to men from high society instead. When you married her daughter, she instantly tried to sleep with you and you of course obliged. After getting fucked by you, she stopped seeing all other men, deciding to have all her needs fulfilled by you and you alone"
+				},
+				{
+					"name": "Anne Hathaway",
+					"image": "AnneHathaway/2.jpg",
+					"modifier": "+1 Passion",
+					"perk": "",
+					"description": "Anne was taken by your wife's husband who ran a human trafficking ring as a slave. She was trained and treated as such, to be utterly loyal and to be used by her husband to fulfil his every desire. When she got pregnant with your wife, her husband took her in as his wife, which meant that she would now live a lavish life, however her husband would no longer use her as his personal sex toy, using other slaves instead. While this of course bothered her, she didn't complain and dedicated her life to raising her two daughters whose father would rarely show up because he was too busy ravaging some other woman. Luckily, now that you married her eldest daughter and took in her younger one, she is now free from her parenting duties and is looking to go back to her old life. Her husband however would not fuck her, seeing her as used goods. As such, you have the perfect oppurtunity to fuck this MILF, who was made to be fucked, as much as you want"
+				},
+				{
+					"name": "Mary E. Winstead",
+					"image": "MaryWinstead/1.jpg",
+					"modifier": "+1 Love",
+					"perk": "",
+					"description": "Mary was a loving mother to both her daughters. Her husband died when she was pregnant with her second daughter and as such she has had to raise them both alone as a single mother. Because she was extremely rich, having inherited wealth from a billionaire uncle, she was able to provide a fulfilling life to both her daughters without herself having to work all that much. As a single woman, she would often get jealous of how much sex her daughters, which led to her thinking of herself as an old hag. When she met you, she seemed like a meek, unconfident woman who desperately needed a self-esteem boost. After marriage, upon insistance of your wife and sister-in-law, you decided to visit your mother-in-law and bask her in love. You slowly seduced her with compliments and touching her body, until eventually she let you manhandle her boobs, make out with her and eventually fuck her, which made her feel confident and hot."
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "choice",
+			"title": "Trainer",
+			"description": "Your trainer works hard to keep you fit and in shape so that you may be able to seduce more women. Of course she is not immune to your charms and your excercise sessions often end with the two of you naked and her pussy filled with your cum.",
+			"choices": [
+				{
+					"name": "Melissa Benoist",
+					"image": "MelissaBenoist/1.jpg",
+					"modifier": "+1 Kink",
+					"perk": "",
+					"description": "Melissa is your slutty swim coach. She lives in your house pool room. When she's not swimming or training the other harem members, she is pleasuring herself in the locker room. You obviously get access to her nubile body in the locker room after your naked weekend swim sessions.  One day, she needed a shower after her swim session, but the shower in the locker rooms was broken. So she called you and the rest of your harem to help her out. She sucked your cock and licked your harem members pussies in a group golden shower session. You covered her in you and your harem member's piss, before finally cumming on her beautiful face, giving the swim slut exactly what she wanted. Needless to say, since that day the shower has never been used again, since now after every swim session of hers, your harem joins her in relieving themselves and covering Melissa's body in piss, much to her enjoyment"
+				},
+				{
+					"name": "Chloe Bennet",
+					"image": "ChloeBennet/1.jpg",
+					"modifier": "+1 Passion",
+					"perk": "",
+					"description": "Chloe is your yoga teacher. She lives in your house gym room. Every weekend Chloe gives you lessons on flexibility, as you admire her curvy body. One day, during your lessons, you couldn't handle it anymore and took your dick out. At first, Chloe was disgusted, but after seeing its size and how hard she had made you get, she was impressed and proud of herself. Clearly turned on by the situation, you could see Chloe's pussy getting wet through her yoga pants. When you asked her about it, she coyly takes her pants off and gives you a striptease. Soon you and her are fucking like rabbits in all sorts of positions, using her flexible body to its complete potential. The next session, Chloe comes in completely naked, and asks you to do the same since she wants to stretch her body to the limits of its flexibility and test her endurance by getting fucked by you again and again till she is no longer able to stand upright."
+				},
+				{
+					"name": "Kathryn Winnick",
+					"image": "KathrynWinnick/1.jpg",
+					"modifier": "+1 Love",
+					"perk": "",
+					"description": "Kathryn was your wrestling instructor. She lives in your sparring room. She trains you in close quarted combat so that you can defend yourself whenever the need be. One day, while sparring you, she accidently touched your rock hard dick, and was immediately embarassed about it. She coyly tells you that she had never been able to get close enough to men to have actually seen one in person, since she was always too scary or distant to men. You assured her that it was nothing to be embarassed about and offered to show her your dick to normalise it. She shyly accepts and is clearly impressed by the size of your dick. In exchange you ask her if you can see her pussy, which she agrees to by taking her pants off slowly. You slowly approach her and place your hand on her pussy, fingering her while making out with her. Eventually, you end up fucking on the floor and you take her virginity."
+				}
+			],
+			"pick": 1
+		},
+		{
+			"type": "ending",
+			"traits": {
+				"Kink": {
+					"maximum": false,
+					"upper": 13,
+					"lower": 3
+				},
+				"Passion": {
+					"maximum": false,
+					"upper": 13,
+					"lower": 3
+				},
+				"Love": {
+					"maximum": false,
+					"upper": 13,
+					"lower": 3
+				}
+			},
+			"title": "Success",
+			"description": "One day while you were fucking your wife, you are transported to another dimension, cock in hand, and you find Aphrodite in front of you.",
+			"data": [
+				{
+					"type": "photopara",
+					"title": "Aphrodite's Offer",
+					"celeb": {
+						"name": "Olivia Wilde",
+						"image": "OliviaWilde/12.jpg"
+					},
+					"description": [
+						"\"Enjoying your new life? I know I have been.\" she says coyly. \"In fact I've been enjoying myself so much, that I asked for you to be made into the new god of sex and lust, right here in Olympus.\" she tells you while slowly placing her hand on your cock",
+						"\"Don't worry babe, I made sure you get to keep all the women you fucked in your new life in your Olympian harem. Plus as the god of sex and lust, you can seduce lesser gods to join you as well\" she says while getting on her knees, clearly ready to blow you. \"So, do you accept?\" she asks while placing your penis on her lips seductively.",
+						"You obviously say yes, and are instantly transformed into a muscular greek god.",
+						"Aphrodite then proceeds to suck you cock until you cum down her throat. She then takes off her dress and bends over to get fucked by your cock. It seems olympians can cum multiple times, so you start fucking Aphrodite with your hard cock, making her cum all over. After cumming a few times inside her, you both collapse on her bed and she asks you to call her, before winking and teleporting you to your house."
+					]
+				},
+				{
+					"type": "button",
+					"text": "CHOOSE THIS ENDING AND PROCEED TO CHOICES?"
+				},
+				{
+					"type": "choice",
+					"title": "Lesser Gods",
+					"description": "As an Olympian god, many lesser gods want to be a part of your harem, so as to be part of the greek pantheon. As such, you have free reign to select as many as you can, however your choices are limited by your power, which was determined by your performance in your life.",
+					"pick": 9,
+					"choices": [
+						{
+							"name": "Barbara Palvin",
+							"description": "Boldogasszony, Magyar Goddess",
+							"image": "BarbaraPalvin/3.jpg",
+							"modifier": "-5 Kink"
+						},
+						{
+							"name": "Dakota Johnson",
+							"description": "Isis, Egyptian Goddess",
+							"image": "DakotaJohnson/5.jpg",
+							"modifier": "-3 Kink"
+						},
+						{
+							"name": "Elizabeth Gillies",
+							"description": "Beira, Scottish Goddess",
+							"image": "ElizabethGillies/2.jpg",
+							"modifier": "-1 Kink"
+						},
+						{
+							"name": "Kate Beckinsale",
+							"description": "Freyja, Norse Goddess",
+							"image": "KateBeckinsale/3.jpg",
+							"modifier": "-5 Passion"
+						},
+						{
+							"name": "Katie McGrath",
+							"description": "Danu, Irish Goddess",
+							"image": "KatieMcGrath/4.jpg",
+							"modifier": "-3 Passion"
+						},
+						{
+							"name": "Eva Green",
+							"description": "Damona, Gaulish Goddess",
+							"image": "EvaGreen/3.jpg",
+							"modifier": "-1 Passion"
+						},
+						{
+							"name": "Leighton Meester",
+							"description": "Marianne, French Goddess",
+							"image": "LeightonMeester/3.jpg",
+							"modifier": "-5 Love"
+						},
+						{
+							"name": "Jennie Kim",
+							"description": "Dalnim, Korean Goddess",
+							"image": "JennieKim/2.jpg",
+							"modifier": "-3 Love"
+						},
+						{
+							"name": "Disha Patani",
+							"description": "Parvati, Hindu Goddess",
+							"image": "DishaPatani/3.jpg",
+							"modifier": "-1 Love"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "ending",
+			"traits": {
+				"Kink": {
+					"maximum": false,
+					"upper": 2,
+					"lower": 0
+				},
+				"Passion": {
+					"maximum": false,
+					"upper": 2,
+					"lower": 0
+				},
+				"Love": {
+					"maximum": false,
+					"upper": 2,
+					"lower": 0
+				}
+			},
+			"title": "Failure",
+			"description": "One day while you were fucking your wife, you are transported to another dimension, cock in hand, and you find Aphrodite in front of you.",
+			"data": [
+				{
+					"type": "photopara",
+					"title": "Aphrodite's Offer",
+					"celeb": {
+						"name": "Olivia Wilde",
+						"image": "OliviaWilde/4.jpg"
+					},
+					"description": [
+						"\"Honestly I'm more disappointed than anything\" she sighs. \"I had such high hopes for you, but you weren't able to maintain the balance\" she tells you while throwing you a towel to cover yourself",
+						"\"I'm terminating you from your new life. You were just like the rest of them, boring and unimpressive. Even with all the advantages you were unable to live an interesting and balanced life.\" she says as she starts fidgeting about on a holoscreen.",
+						"Suddenly, it all goes dark. You wake up in hell, where you are forced to see all the women in your harem get fucked by minor gods, continuosly yelling how much better they are than you. All the while you are milked rigorously for your cum to be used to inseminate beings in hell. Who knows maybe over time you might even be into this."
+					]
+				}
+			]
+		}
+	]
+}
